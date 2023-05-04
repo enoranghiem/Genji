@@ -2840,11 +2840,6 @@ PrefabInstance:
       objectReference: {fileID: 541601787}
     - target: {fileID: 8762286023885395323, guid: 9c489a8547f4d9e4387da15a4ff82c81,
         type: 3}
-      propertyPath: m_Lens.FieldOfView
-      value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8762286023885395323, guid: 9c489a8547f4d9e4387da15a4ff82c81,
-        type: 3}
       propertyPath: m_Lens.m_SensorSize.x
       value: 2.009116
       objectReference: {fileID: 0}
