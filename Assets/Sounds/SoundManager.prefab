@@ -143,11 +143,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SoundList","value":{"$content":[{"Key":{"$content":"clickSound","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"dashSound","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SoundList","value":{"$content":[{"Key":{"$content":"clickSound","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"dashSound","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}},{"Key":{"$content":"starSound","$type":"System.String"},"Value":{"$content":2,"$type":"UnityEngine.Object"}},{"Key":{"$content":"shurikenShootSound","$type":"System.String"},"Value":{"$content":3,"$type":"UnityEngine.Object"}},{"Key":{"$content":"shurikenHit","$type":"System.String"},"Value":{"$content":4,"$type":"UnityEngine.Object"}},{"Key":{"$content":"jump","$type":"System.String"},"Value":{"$content":5,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 8300000, guid: 9fd3b01f72c122f478b7b1bd143e7ed1, type: 3}
     - {fileID: 8300000, guid: 925bd5d459b7aa14883ef33155f5f576, type: 3}
+    - {fileID: 8300000, guid: 3d29805388ba5814a96abe6b67048dc8, type: 3}
+    - {fileID: 8300000, guid: 94aa3ab0357816f4fbc0cc3273d5320c, type: 3}
+    - {fileID: 8300000, guid: 07ccd0959ade4e245b75e34497e3bd16, type: 3}
+    - {fileID: 8300000, guid: 4643498699dc9d84d8bf73d0297b6ca5, type: 3}
 --- !u!114 &609326753818110133
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -8,6 +8,7 @@ TagManager:
   - Floor
   - Shuriken
   - ClimbWall
+  - Wall
   layers:
   - Default
   - TransparentFX
