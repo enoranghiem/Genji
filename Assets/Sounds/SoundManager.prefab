@@ -143,9 +143,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SoundList","value":{"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"SoundList","value":{"$content":[{"Key":{"$content":"clickSound","$type":"System.String"},"Value":{"$content":0,"$type":"UnityEngine.Object"}},{"Key":{"$content":"dashSound","$type":"System.String"},"Value":{"$content":1,"$type":"UnityEngine.Object"}}],"$type":"Unity.VisualScripting.AotDictionary"},"typeHandle":{"Identification":"Unity.VisualScripting.AotDictionary,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+    _objectReferences:
+    - {fileID: 8300000, guid: 9fd3b01f72c122f478b7b1bd143e7ed1, type: 3}
+    - {fileID: 8300000, guid: 925bd5d459b7aa14883ef33155f5f576, type: 3}
 --- !u!114 &609326753818110133
 MonoBehaviour:
   m_ObjectHideFlags: 0
